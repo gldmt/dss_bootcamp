@@ -1,6 +1,6 @@
 ---
 title: "DSS Computing Bootcamp Template"
-author: "Gilad Amitai (made changes for Git)"
+author: "Gilad Amitai (made changes for Git) (now from Git)"
 date: "8/26/2016"
 output: html_document
 ---
